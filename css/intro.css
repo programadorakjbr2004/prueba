@@ -1,0 +1,64 @@
+
+header{
+    background-color: yellow;
+    height: 70px;
+
+}
+
+.parte2{
+   
+    background-color: 0;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    margin-top: 150px;
+    background-color: rgb(36, 36, 11);
+    height: 500px;
+    
+}
+.parte1{
+    background-color: rgb(183, 178, 16);
+    margin-top: 600px;
+    width: 60%;
+    margin: auto;
+    display: flex;
+}
+
+h1{
+    margin: 50px;
+    font-size: 50px;
+    font-family: fantasy;
+}
+.taxi{
+    height: 300px;
+    
+}
+.cubo1{
+    width: 50%;
+    
+    
+    
+}
+.cuadrito{
+    background-color: rgb(12, 86, 33);
+    width: 50%;
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(9, 9, 124);
+    font-size: 30px;
+}
+
+p{
+    margin: 50px;
+    font-size: 20px;
+}
+.cubo{
+    margin: auto;
+    width: 70%;
+    background-color: rgb(177, 177, 9);
+    box-shadow: 10px 10px 20px 20px hwb(0 99% 1% / 0.422);
+}
+
+
