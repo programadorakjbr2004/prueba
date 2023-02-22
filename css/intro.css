@@ -61,4 +61,36 @@ p{
     box-shadow: 10px 10px 20px 20px hwb(0 99% 1% / 0.422);
 }
 
+.parte3{
+    margin: 40px;
+    margin-top: 200px;
+    background-color: rgba(0, 0, 0, 0.281);
+    box-shadow: 10px 10px 20px 20px hwb(0 1% 99% / 0.422);
+}
+h3{
+    font-size: 30px;
+    margin: 30px;
+}
+.info{
+    width: 50%;
+}
+.petro{
+    height: 500px;
+    margin: auto;
+    display: flex;
+}
+
+.link{
+    background-color: darkblue;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    width: 20%;
+    color: white;
+    margin-top: 100px;
+}
+
 
